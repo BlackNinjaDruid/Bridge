@@ -1,0 +1,2 @@
+[2013-11-20 12-58-40] HTTP code 404: Page not found. Missing template '…\Entwicklung\www\eymedia\sandbox\app\templates\Homepage\default.latte'. in P:\Documents\Entwicklung\www\eymedia\sandbox\libs\Nette\Application\UI\Presenter.php:664  @  http://localhost/sandbox/www/
+[2013-11-20 15-08-10] HTTP code 404: Post not found in P:\Documents\Entwicklung\www\eymedia\sandbox\libs\Nette\Application\UI\Presenter.php:664  @  http://localhost/sandbox/www/post/show?postId=4
